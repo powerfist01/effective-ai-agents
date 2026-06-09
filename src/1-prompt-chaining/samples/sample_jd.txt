@@ -1,0 +1,37 @@
+Senior Python Developer — FinTech Platform
+
+About Us:
+Moneytree is a fast-growing fintech startup building real-time payment infrastructure for SMEs across Southeast Asia. We process over $2B in transactions annually and are expanding our engineering team.
+
+Role Summary:
+We are looking for a Senior Python Developer to join our backend platform team. You will own the design and delivery of high-throughput APIs, help shape our microservices architecture, and mentor junior engineers.
+
+Key Responsibilities:
+- Design, build, and maintain high-performance Python services handling 10,000+ requests/second
+- Lead technical design reviews and contribute to architecture decisions
+- Build and own CI/CD pipelines for backend services
+- Write comprehensive unit and integration tests (target: 90%+ coverage)
+- Collaborate with product and mobile teams to deliver features end to end
+- Mentor 2-3 junior developers through code reviews and pairing sessions
+
+Required Qualifications:
+- 5+ years of professional Python development experience
+- Strong experience with FastAPI or Django REST Framework
+- Proficiency with PostgreSQL and Redis
+- Experience with Docker and Kubernetes in production
+- Familiarity with AWS (ECS, RDS, SQS, S3)
+- Strong understanding of RESTful API design and async programming (asyncio)
+- Experience writing and maintaining CI/CD pipelines (GitHub Actions or similar)
+
+Nice-to-Have Qualifications:
+- Experience with Apache Kafka or similar event streaming platforms
+- Go or Rust experience
+- Prior experience in fintech or payments domain
+- Open-source contributions
+
+Compensation & Benefits:
+- Salary: $130,000 – $160,000 USD (based on experience)
+- Equity: 0.1% – 0.3% options
+- Remote-first with optional offices in Singapore and Kuala Lumpur
+- Annual learning budget: $2,500
+- 25 days PTO + public holidays

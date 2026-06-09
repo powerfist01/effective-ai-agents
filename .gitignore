@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+data/resume.pdf
+docs/
+.claude/
+
+# Generated run outputs — keep the folders, ignore their contents
+**/outputs/*
+!**/outputs/.gitkeep
